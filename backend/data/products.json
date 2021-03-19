@@ -1,0 +1,104 @@
+[
+    {
+        "name" : "Laptop",
+        "price" : "500000000",
+        "description" : "Laptop này rất ngon, bền bỉ, tiện lợi, dễ sử dụng",
+        "ratings" : 4.5,
+        "images" : [
+            {
+                "public_id" : "products/jfjfhdsjhcjd",
+                "url" : "https://res.cloudinary.com/nienluannganh/image/upload/v1612186212/nienluan/Quyen_rucjsl.png" 
+            }
+        ],
+        "category" : "Electronics",
+        "seller" : "ebay",
+        "stock" : 50,
+        "numofReviews" : 32,
+        "reviews" : []
+    },
+    {
+        "name" : "Ip 12 promax",
+        "price" : "10000",
+        "description" : "Điện thoại ip 12 promax cực xịn dễ sử dụng",
+        "ratings" : 5,
+        "images" : [
+            {
+                "public_id" : "products/jfjfhdsjhcjd",
+                "url" : "https://res.cloudinary.com/nienluannganh/image/upload/v1612186212/nienluan/Quyen_rucjsl.png" 
+            }
+        ],
+        "category" : "Phone",
+        "seller" : "anthony",
+        "stock" : 15,
+        "numofReviews" : 3,
+        "reviews" : []
+    },
+    {
+        "name" : "samsung",
+        "price" : "399",
+        "description" : "samsung cực xịn dễ sử dụng",
+        "ratings" : 2.1,
+        "images" : [
+            {
+                "public_id" : "products/jfjfhdsjhcjd",
+                "url" : "https://res.cloudinary.com/nienluannganh/image/upload/v1612186212/nienluan/Quyen_rucjsl.png" 
+            }
+        ],
+        "category" : "phone",
+        "seller" : "hello",
+        "stock" : 1,
+        "numofReviews" : 2,
+        "reviews" : []
+    },
+    {
+        "name" : "samsung123",
+        "price" : "399",
+        "description" : "samsung123 cực xịn dễ sử dụng",
+        "ratings" : 2.1,
+        "images" : [
+            {
+                "public_id" : "products/jfjfhdsjhcjd",
+                "url" : "https://res.cloudinary.com/nienluannganh/image/upload/v1612186212/nienluan/Quyen_rucjsl.png" 
+            }
+        ],
+        "category" : "Phone",
+        "seller" : "hello123",
+        "stock" : 1,
+        "numofReviews" : 2,
+        "reviews" : []
+    },
+    {
+        "name" : "samsung1234",
+        "price" : "400",
+        "description" : "samsung1234 cực xịn dễ sử dụng",
+        "ratings" : 2.1,
+        "images" : [
+            {
+                "public_id" : "products/jfjfhdsjhcjd",
+                "url" : "https://res.cloudinary.com/nienluannganh/image/upload/v1612186212/nienluan/Quyen_rucjsl.png" 
+            }
+        ],
+        "category" : "Phone",
+        "seller" : "hello1234",
+        "stock" : 1,
+        "numofReviews" : 2,
+        "reviews" : []
+    },
+    {
+        "name" : "samsung123",
+        "price" : "500",
+        "description" : "samsung123 cực xịn dễ sử dụng",
+        "ratings" : 2.1,
+        "images" : [
+            {
+                "public_id" : "products/jfjfhdsjhcjd",
+                "url" : "https://res.cloudinary.com/nienluannganh/image/upload/v1612186212/nienluan/Quyen_rucjsl.png" 
+            }
+        ],
+        "category" : "Phone",
+        "seller" : "hello123",
+        "stock" : 1,
+        "numofReviews" : 2,
+        "reviews" : []
+    }
+]
